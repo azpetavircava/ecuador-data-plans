@@ -76,3 +76,10 @@ layout: default
 
 　　在厄瓜多尔，一张小小的流量卡是你连接世界的钥匙。花一点时间做好功课，你的整个旅程会因此顺畅得多。祝你在赤道之国，网络通畅，玩得开心！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Ecuador SIM 卡购买与激活指南](https://faciylike.github.io/ecuador-sim-guides)
